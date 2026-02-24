@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **fullstack web development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-new-zeta-eight.vercel.app/](https://portfolio-new-zeta-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [mosharof.vercel.app](https://portfolio-new-zeta-eight.vercel.app/)
 
 - 📫 How to reach me **mosharofofficial1415@gmail.com**
 
